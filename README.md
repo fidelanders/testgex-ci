@@ -1,8 +1,8 @@
 # testgex-ci
 Test deployment and Continuous Integration CI on github using python
-
+**************
 Simple testing with basic arithmetic
-
+**************
 Procedure to use this repo
 **************
 1. clone repo
