@@ -17,11 +17,11 @@ def subtract(a, b):
 # uncomment the following test in step 5
 def test_subtract():
    assert subtract(2, 3) == -1
-   assert subtract(2, 3) == 6
+   assert subtract(4, 3) == 1
 
 def multiply(a, b):
     return a * b
 
 def test_multiply():
    assert multiply(2, 3) == 6
-   assert multiply(4, 3) == 0
+   assert multiply(5, 3) == 15
